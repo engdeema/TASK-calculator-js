@@ -2,7 +2,7 @@
 
 You are going to create a basic calculator with the simple functionalities
 
-<img src="https://i.ibb.co/sCWfY77/Screenshot-2021-09-26-164102.png" alt="Calculator">
+![demotask-calculator](https://user-images.githubusercontent.com/8784343/134820991-7f19e231-ae19-477e-bccb-8e014f8acca7.gif)
 
 ## Instructions
 
